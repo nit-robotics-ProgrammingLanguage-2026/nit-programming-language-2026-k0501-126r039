@@ -3,8 +3,8 @@
 int main(void)
 {
     int input;
-    scanf("%d", &input);
-    if (0<=input && input<10)
+    scanf("%d", &x);
+    if (0<=x && x<10)
     {
         printf("OK");
     }
