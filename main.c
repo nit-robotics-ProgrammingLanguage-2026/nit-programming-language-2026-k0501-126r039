@@ -4,7 +4,7 @@ int main(void)
 {
     int input;
     scanf("%d", &input);
-    if (0<=x && x<10)
+    if (x>=0 && x<10)
     {
         printf("OK");
     }
